@@ -1,7 +1,8 @@
 # IE 7615 – Object Recognition on a Class-Collected Dataset
 
-Course project (**Discriminative Project**) for *IE 7615 Deep Learning for AI*, Northeastern University.
-Author: **Sankalp Shinde** (Study Group 8) · contributed object: **OBJ059 · Comb**
+Course project (**Discriminative Project**) for *IE 7615 Deep Learning for AI*, Northeastern University.  
+**Study Group 8:** Pooja Mishra · Gaurang Patil · Sankalp Shinde  
+Contributed objects: OBJ061 Card wallet (Pooja Mishra) · OBJ069 knife (Gaurang Patil) · OBJ059 Comb (Sankalp Shinde)
 
 Each student photographed one unique everyday object (~100 photos each). The merged dataset has **73 objects (OBJ001–OBJ073)**, listed in [`object_ids.csv`](object_ids.csv). The images themselves are shared through the course Google Drive and are not included in this repository.
 
